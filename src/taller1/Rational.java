@@ -146,4 +146,3 @@ public class Rational {
         //Promedio de elementos sobre los que se trabaja
     }
 }
-
