@@ -10,7 +10,6 @@ public class Rational {
 
     public Rational(int numerator, int denominator) {
         int mcd = mcd(numerator, denominator);
-
         this.numerator = numerator / mcd;
         setDenominator(denominator / mcd);
     }
